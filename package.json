@@ -1,0 +1,22 @@
+{
+  "name": "youtube-playlists-experiment",
+  "version": "0.0.1",
+  "description": "youtube-playlists-experiment ============================",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/luiseduardobrito/youtube-playlists-experiment.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luiseduardobrito/youtube-playlists-experiment/issues"
+  },
+  "homepage": "https://github.com/luiseduardobrito/youtube-playlists-experiment",
+  "dependencies": {
+    "express": "^4.4.1"
+  }
+}
